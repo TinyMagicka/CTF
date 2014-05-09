@@ -75,3 +75,6 @@ Writeup：[360 Hackgame Writeup] [360HackgameWriteup]（暂缺）
 * [https://ctftime.org/](https://ctftime.org/)
 * [https://github.com/ctfs/write-ups](https://github.com/ctfs/write-ups)
 
+## CTF Resources
+
+* [CTF Tools List](/ctf_tools_list.md)
