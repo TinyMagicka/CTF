@@ -16,6 +16,8 @@ Writeup：[BCTF 2014 Writeup] [BCTF2014Writeup]（暂缺）
 
 [BCTF2014Writeup]:/BCTF2014/BCTFWriteup.md
 
+入围决赛队伍 Writeup：[BCTF 2014 Official Writeup](http://pan.baidu.com/s/1qW4Q0nM)
+
 ## ACTF 2014
 
 官网：[http://ctf.zjuisa.org/] [ACTF]
@@ -69,6 +71,20 @@ Writeup：[PCTF 2014 Writeup] [PCTF2014Writeup]（暂缺）
 Writeup：[360 Hackgame Writeup] [360HackgameWriteup]（暂缺）
 
 [360HackgameWriteup]:/360Hackgame/360Writeup.md
+
+## CUIT 2014
+
+官网：<http://hack.myclover.org/>
+
+时间：2014年5月9日，22:00 ~ 2014年5月13日，10:00
+
+题目：[CUIT 2014](/CUIT2014/CUIT2014.md)
+
+Writeup：[CUIT 2014 Writeup] [CUIT2014Writeup]（暂缺）
+
+[CUIT2014Writeup]:/CUIT2014/CUIT2014Writeup.md
+
+Writeup:[CUIT 2014 Official Writeup](http://pan.baidu.com/s/1o6v3daU)
 
 ## 更多信息
 
